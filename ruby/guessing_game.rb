@@ -1,6 +1,6 @@
 random_number = rand(10)
 
-puts "I have picked a random number between 1 and 10."
+puts "I have picked a random between 1 and 10."
 puts "Can you guess the number?"
 
 loop do
